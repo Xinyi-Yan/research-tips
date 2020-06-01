@@ -1,5 +1,5 @@
 ---
-title:  "Breakingdown Academic Articles"
+title:  "Breaking down Academic Articles"
 date:   2020-05-20
 authors: 
     - chris-lopez
@@ -15,6 +15,10 @@ thumbnail: /assets/tutorials/thumbnails/BreakingDownAcademicArticles.png
 handout:
 handout-thumbail: 
 category: Getting Started
+learning-outcomes:
+    - Identify key aspects of an academic article
+    - Support future research endeavors
+    - Prepare to discuss articles in class
 tags:
 - academic articles
 - abstracts
